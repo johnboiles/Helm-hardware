@@ -1,5 +1,5 @@
-BoatBridge
-==========
+Helm
+====
 Board to convert RayMarine Seatalk to NMEA 0183 and vice versa. Also provides a connector for a TTL GPS such as SparkFun part #11571. I use it with a Raspberry PI connected over USB to get boat data into OpenCPN.
 
 BOM

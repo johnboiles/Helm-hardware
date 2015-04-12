@@ -153,7 +153,7 @@
 <text x="12.065" y="1.651" size="1.778" layer="26" rot="MR0">GND</text>
 <text x="35.179" y="4.953" size="1.778" layer="52" rot="MR0">+</text>
 <text x="34.798" y="1.397" size="1.778" layer="52" rot="MR0">-</text>
-<text x="33.02" y="15.24" size="2.54" layer="26" rot="MR90">BoatBridge v1</text>
+<text x="33.02" y="15.24" size="2.54" layer="26" rot="MR90">Helm v1</text>
 <text x="29.21" y="15.24" size="1.9304" layer="26" rot="MR90">John Boiles</text>
 </plain>
 <libraries>
